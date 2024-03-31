@@ -1,7 +1,9 @@
 <!--
 https://localhost/base/user_resist/user_resist_sp/signup_sp2.php
+まずは、この画面のどこにPHPコードを挿入していくか
 -->
 
+<!-- ★signup.php require -->
 <!DOCTYPE html>
 <html lang="ja">
 
